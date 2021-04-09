@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![https://ibb.co/qB6Pw3x](./screenshot.jpg)
+![Live Screenshot](https://ibb.co/qB6Pw3x)
 
 ### Links
 
